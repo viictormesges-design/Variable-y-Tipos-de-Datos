@@ -1,4 +1,4 @@
-let mesaje = "¡Hola mundo!";
+let mensaje = "¡Hola mundo!";
 let texto = "Soy"; 
 let nombre = "Victor";
 let numero = [1,2,3,4,5];
